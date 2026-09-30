@@ -1,0 +1,12 @@
+# Callout definitions for Just the Docs.
+# Merged into the host site config in memory (never copied into the site).
+# Keys already set in the site `_config.yml` win.
+callouts:
+  monster:
+    title: Monster
+    color: red
+  monster-no-title:
+    color: red
+  item:
+    title: Item
+    color: blue
