@@ -8,6 +8,7 @@ Gem::Specification.new do |spec|
 
   spec.summary = "Just the Docs callouts for RPG adventures (monster, item)."
   spec.license = "MIT"
+  spec.homepage = "https://github.com/sunflowermans/rpg-callouts"
 
   spec.required_ruby_version = ">= 3.0"
 
